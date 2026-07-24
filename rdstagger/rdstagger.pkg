@@ -1,4 +1,30 @@
-D 'verswlr': Perform versatile weighted log-rank test Use verswlr With STATA 19
+D 'rdstagger': Staggered Regression Discontinuity with Network Interference Use rdstagger With STATA 19
 D
-F verswlr.ado
-F verswlr.sthlp
+F rdbwselect.ado
+F rdbwselect.sthlp
+F rdbwselect_2014.ado
+F rdbwselect_2014.sthlp
+F rdbwselect_2014_kconst.ado
+F rdplot.ado
+F rdplot.sthlp
+F rdrobust.ado
+F rdrobust.sthlp
+F rdrobust_bw.mo
+F rdrobust_collapse.mo
+F rdrobust_groupid.mo
+F rdrobust_kweight.mo
+F rdrobust_median.mo
+F rdrobust_res.mo
+F rdrobust_vce.mo
+F rdstagger.ado
+F rdstagger.sthlp
+F rdstagger_agg.ado
+F rdstagger_agg.sthlp
+F rdstagger_plot.ado
+F rdstagger_plot.sthlp
+F rdstagger_pretest.ado
+F rdstagger_pretest.sthlp
+F rdstagger_sim.ado
+F rdstagger_sim.sthlp
+F rdstagger_spillover.ado
+F rdstagger_spillover.sthlp
